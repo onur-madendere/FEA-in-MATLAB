@@ -1,2 +1,2 @@
-# FEA-in-MATLAB
-This repository includes FEA computations in MATLAB.
+# FEM-in-MATLAB
+This repository includes FEM computations in MATLAB.
